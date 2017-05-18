@@ -1,0 +1,7 @@
+# ninja log v5
+0	4578	0	CMakeFiles/aaa.dir/src/main/jni/jnitest.c.o	39e5c587d2cd05dd
+4579	5288	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libaaa.so	b176a2bd5aad387c
+226	4348	0	CMakeFiles/aaa.dir/src/main/jni/jnitest.c.o	39e5c587d2cd05dd
+4348	7225	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libaaa.so	b176a2bd5aad387c
+1286	6411	0	CMakeFiles/aaa.dir/src/main/jni/jnitest.c.o	39e5c587d2cd05dd
+6411	9943	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libaaa.so	b176a2bd5aad387c

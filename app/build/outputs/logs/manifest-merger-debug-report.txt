@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:2:1-123:12
+	package
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.INTERNET
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:9:5-83
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:9:22-81
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.REORDER_TASKS
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:11:22-69
+application
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:13:5-121:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\android_project\asd\MLGB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\android_project\asd\MLGB\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\android_project\asd\MLGB\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\android_project\asd\MLGB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:17:9-35
+	android:allowBackup
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:19:9-56
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:18:9-32
+activity#mobile.xiyou.atest.MainActivity
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:relinquishTaskIdentity
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:21:13-50
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:25:27-74
+activity#mobile.xiyou.atest.TestActivity
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:29:9-33:15
+	android:allowTaskReparenting
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:32:13-49
+	android:taskAffinity
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:31:13-39
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:30:13-41
+activity#mobile.xiyou.atest.Remote.MasterActivity
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:34:9-68
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:34:19-56
+activity#mobile.xiyou.atest.ActivityBase$A1
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:35:9-41:15
+	android:process
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:36:13-34
+	android:label
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:40:13-31
+	android:allowTaskReparenting
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:39:13-48
+	android:taskAffinity
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:38:13-39
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:37:13-44
+activity#mobile.xiyou.atest.ActivityBase$A2
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:42:9-46:15
+	android:process
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:43:13-34
+	android:allowTaskReparenting
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:44:13-48
+	android:taskAffinity
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:45:13-39
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:42:19-50
+activity#mobile.xiyou.atest.ActivityBase$A3
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:47:9-51:15
+	android:process
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:48:13-34
+	android:taskAffinity
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:49:13-39
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:47:19-50
+activity#mobile.xiyou.atest.ActivityBase$A4
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:52:9-54:15
+	android:process
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:53:13-34
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:52:19-50
+activity#mobile.xiyou.atest.ActivityBase$A5
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:55:9-57:15
+	android:process
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:56:13-34
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:55:19-50
+service#mobile.xiyou.atest.TestService
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:59:9-47
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:59:18-45
+service#mobile.xiyou.atest.Service1
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:61:9-62:15
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:61:18-42
+service#mobile.xiyou.atest.ServiceBase$Service1
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:64:9-66:15
+	android:process
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:65:13-34
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:64:18-54
+service#mobile.xiyou.atest.ServiceBase$Service2
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:67:9-69:15
+	android:process
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:68:13-34
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:67:18-54
+service#mobile.xiyou.atest.ServiceBase$Service3
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:71:9-73:15
+	android:process
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:72:13-34
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:71:18-54
+service#mobile.xiyou.atest.ServiceBase$Service4
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:74:9-76:15
+	android:process
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:75:13-34
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:74:18-54
+service#mobile.xiyou.atest.ServiceBase$Service5
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:78:9-80:15
+	android:process
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:79:13-34
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:78:18-54
+service#mobile.xiyou.atest.AppManagerService
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:82:9-83:41
+	android:process
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:83:13-39
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:82:18-51
+service#mobile.xiyou.atest.Remote.RemoteService
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:84:9-85:45
+	android:process
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:85:13-34
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:84:18-54
+provider#mobile.xiyou.atest.hook_contentProvider.ContentProviderBase
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:88:9-90:71
+	android:authorities
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:89:13-94
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:90:13-69
+provider#mobile.xiyou.atest.hook_contentProvider.ContentProviderStub1
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:91:9-93:72
+	android:authorities
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:92:13-95
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:93:13-70
+provider#mobile.xiyou.atest.hook_contentProvider.ContentProviderStub2
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:95:9-97:72
+	android:authorities
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:96:13-95
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:97:13-70
+provider#mobile.xiyou.atest.hook_contentProvider.ContentProviderStub3
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:98:9-100:72
+	android:authorities
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:99:13-95
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:100:13-70
+provider#mobile.xiyou.atest.hook_contentProvider.ContentProviderStub4
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:101:9-103:72
+	android:authorities
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:102:13-95
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:103:13-70
+provider#mobile.xiyou.atest.hook_contentProvider.ContentProviderStub5
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:104:9-106:72
+	android:authorities
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:105:13-95
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:106:13-70
+provider#mobile.xiyou.atest.hook_contentProvider.ContentProviderStub6
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:107:9-109:72
+	android:authorities
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:108:13-95
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:109:13-70
+provider#mobile.xiyou.atest.hook_contentProvider.ContentProviderStub7
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:110:9-112:72
+	android:authorities
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:111:13-95
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:112:13-70
+provider#mobile.xiyou.atest.hook_contentProvider.ContentProviderStub8
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:113:9-115:72
+	android:authorities
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:114:13-95
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:115:13-70
+provider#mobile.xiyou.atest.hook_contentProvider.ContentProviderStub9
+ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:117:9-119:72
+	android:authorities
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:118:13-95
+	android:name
+		ADDED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml:119:13-70
+uses-sdk
+INJECTED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\android_project\asd\MLGB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\android_project\asd\MLGB\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\android_project\asd\MLGB\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\android_project\asd\MLGB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] E:\android_project\asd\MLGB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android_project\asd\MLGB\app\src\main\AndroidManifest.xml
